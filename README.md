@@ -3,15 +3,6 @@ My slides for https://cerfa.de/blog/2024/09/06/symposium-2024-excuse-me-there-is
 
 Please feel free to reach out at [GerritGroßmann.de](https://gerritgrossmann.de). 
 
-- Internet Resources
-- Reviews
-- Foundations of Diffusion Models
-- Foundations of GNNs
-- Diffusion Modes for Molecular Graphs
-- Diffusion Modes for Molecular Point Clouds
-- Diffusion in the Latent Space
-- Broader Applications (Proteins, Docking, Force Fields, Antibodies, Retrosynthesis)
-
 ## Internet Resources
 - [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd)
 - [Michael Bronstein: The Road to Biology 2.0 Will Pass Through Black-Box Data](https://towardsdatascience.com/the-road-to-biology-2-0-will-pass-through-black-box-data-bbd00fabf959)
